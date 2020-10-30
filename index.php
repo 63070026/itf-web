@@ -6,9 +6,9 @@
     <body>
         <h1>My Profile</h1>
         <p>My name is Chayanon Pettavee nickname is Nikk</p>
-        <img src="gecko-1.jpg" width="200">
-        <img src="codomo.jpg" width="200">
-        <img src="dog.jpg" width ="200">
+        <img src="gecko-1.jpg" width="500">
+        <img src="codomo.jpg" width="500">
+        <img src="dog.jpg" width ="500">
         <br>
         <a href="https://www.youtube.com/channel/UCI3GAvwaZwf1abbeREza8eA">I like this link </a>
 
