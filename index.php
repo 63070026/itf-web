@@ -1,7 +1,7 @@
 <html>
-    <meta charset="UTF-8
-    <head>
-        <title>Profile</title>
+    
+    <meta charset="UTF-8>
+    <title>Profile</title>
     </head>
     <body>
         <h1>My Profile</h1>
